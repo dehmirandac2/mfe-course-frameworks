@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom'
 import App from './App'
 
 export const mount = (el) => {
-    console.log(`>>>>>>mount remote`, el, App)
     ReactDOM.render(<App />, el)
 }
 
