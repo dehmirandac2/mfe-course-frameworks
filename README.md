@@ -1,7 +1,7 @@
 # mfe-course-frameworks
 
 
-## To run the host
+## Run the host
 
 - Navigate to `cd packages/container`
 - Install dependencies `yarn'
@@ -9,7 +9,7 @@
 - Access [http://localhost:8080/marketing](http://localhost:8080/marketing)
 
 
-## To run the Marketing remote
+## Run the Marketing remote
 
 - Navigate to `cd packages/marketing`
 - Install dependencies `yarn'
